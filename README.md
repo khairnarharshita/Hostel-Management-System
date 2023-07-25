@@ -1,7 +1,7 @@
 # Hostel-Management-System
 A system created for effective simulation of hostel management.
 
-The system provides functionality :
+System provides functionality :
 
 1)Admission
 
