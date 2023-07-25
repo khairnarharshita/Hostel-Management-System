@@ -1,5 +1,5 @@
 # Hostel-Managment-System
-A A system created for effective simulation of hostel management.
+A system created for effective simulation of hostel management.
 
 The system provides functinality :
 
