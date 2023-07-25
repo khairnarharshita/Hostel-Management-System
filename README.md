@@ -1,7 +1,7 @@
-# Hostel-Managment-System
+# Hostel-Management-System
 A system created for effective simulation of hostel management.
 
-The system provides functinality :
+The system provides functionality :
 
 1)Admission
 
@@ -15,7 +15,7 @@ The system provides functinality :
 
 6)Nigh-out management.
 
-The above functionalities are implemented using Data structures in java.
+The above functionalities are implemented using Data structures in Java.
 like,
 
 Queue-admission, and complaint management.
